@@ -1,9 +1,12 @@
-# Proyecto Final Alexander
+# Proyecto Final Alexander [Click para demo](https://proyecto-final-alexander.vercel.app/)
+
+Plataforma e-commerce construida con React, Firebase y LocalStorage. Permite a los usuarios agregar productos a su carrito y ver un resumen del pedido.
+
 
 ![alt text](https://github.com/agusalex/Preentrega2-Alexander/blob/main/example-readme.png?raw=true)
 
 
-Plataforma e-commerce construida con React, Firebase y LocalStorage. Permite a los usuarios agregar productos a su carrito y ver un resumen del pedido.
+
 
 ## Instalación
 
