@@ -2,7 +2,7 @@
 
 Plataforma e-commerce construida con React, Firebase y LocalStorage. Permite a los usuarios agregar productos a su carrito y ver un resumen del pedido.
 
-
+![alt text](https://github.com/agusalex/Preentrega2-Alexander/blob/main/acelerated-compressed.gif?raw=true)
 ![alt text](https://github.com/agusalex/Preentrega2-Alexander/blob/main/example-readme.png?raw=true)
 
 
